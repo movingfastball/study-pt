@@ -8,6 +8,7 @@
 <body>
 <?PHP
 print"こんにちは";
+test
 ?>
 
 </body>
