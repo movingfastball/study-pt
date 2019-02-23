@@ -9,6 +9,10 @@
 <?PHP
 print"こんにちは";
 test
+
+
+test2
+
 ?>
 
 </body>
